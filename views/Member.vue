@@ -273,7 +273,7 @@ const cancelEdit = () => {
                   </v-col>
                 </v-row>
                 <v-btn v-if="!isEditing" class="bg-green" @click="addItem"
-                  >Add</v-btn
+                  >ADD</v-btn
                 >
                 <v-btn v-if="!isEditing" class="bg-red ml-2" @click="reset"
                   >Clear</v-btn
