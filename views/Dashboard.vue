@@ -61,7 +61,7 @@ const items = ref([
         <v-col cols="12" md="3">
           <v-card class="py-3">
             <v-card-item>
-              <v-card-title>Borrowed Books</v-card-title>
+              <v-card-title>Borrow Books</v-card-title>
               <v-card-title class="mt-4 mb-2 text-h4 bold text-red"
                 >230</v-card-title
               >
