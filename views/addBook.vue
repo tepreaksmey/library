@@ -180,7 +180,7 @@ const deleteFunction = (id) => {
         <v-dialog v-model="dialog" width="600">
           <v-card>
             <v-card-title v-if="isEditing">Edit Book</v-card-title>
-            <v-card-title v-else>Add New Book</v-card-title>
+            <v-card-title v-else>ADD New Book</v-card-title>
             <v-card-text>
               <v-form>
                 <v-row>
