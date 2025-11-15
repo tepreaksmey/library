@@ -51,7 +51,7 @@ const items = ref([
   },
   {
     id: "#92841",
-    name: "Smey",
+    name: "Reak Smey",
     title: "Java",
     author: "Eng Titya",
     borrow: "12/3/2024",
