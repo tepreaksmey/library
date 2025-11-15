@@ -35,7 +35,7 @@ const header = ref([
 const items = ref([
   {
     id: "#77124",
-    name: "Sal Sava",
+    name: "Sal Sava nas ",
     title: "React Js",
     author: "Eng Titya",
     borrow: "2024-01-11",
